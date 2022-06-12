@@ -1,0 +1,11 @@
+{
+  "name": "stream-test",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node --max-old-space-size=12 index.js"
+  },
+  "dependencies": {
+    "stream-chain": "^2.2.5",
+    "stream-json": "^1.7.4"
+  }
+}
